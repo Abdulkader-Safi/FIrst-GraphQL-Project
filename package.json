@@ -1,14 +1,14 @@
 {
   "name": "learngraphql",
   "version": "1.0.0",
-  "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js --watch"
   },
-  "author": "Abdulkader Safi",
-  "license": "MIT",
+  "author": "Abdulkader",
   "dependencies": {
-    "express": "^4.19.2"
+    "@apollo/server": "^4.10.4",
+    "graphql": "^16.8.2"
   }
 }
