@@ -1,0 +1,14 @@
+{
+  "name": "learngraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js --watch"
+  },
+  "author": "Abdulkader Safi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
