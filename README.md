@@ -1,1 +1,1 @@
-# Learn And Build GraophQL API with ExpressJS
+# Learn And Build GraphQL API with ExpressJS
